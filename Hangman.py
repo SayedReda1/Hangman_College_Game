@@ -59,7 +59,7 @@ while tries < 7:
     check(user_input)
 
 if animal == current_answer:
-    print("\nAna etkatably 3omr gdeed")
+    print("\nYou WIN :)")
 else:
-    print(f"\nMinak lellah mawett elragel")
+    print(f"\nYou lost :(")
 
