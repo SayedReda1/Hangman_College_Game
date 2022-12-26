@@ -59,7 +59,7 @@ while tries < 7:
     check(user_input)
 
 if animal == current_answer:
-    print("\nYou WIN :)")
+    print("\nYou Got It :)")
 else:
-    print(f"\nYou lost :(")
+    print(f"\nGood Luck Next Time :(")
 
